@@ -1,4 +1,4 @@
-# QuantumFair Contracts
+# FunStation Contracts
 
 Contracts for QuantumFair platform from API3 Latam.
 
